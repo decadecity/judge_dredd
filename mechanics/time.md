@@ -6,7 +6,7 @@
 1 Phase (1 second) == 1 Action
 
 ## Active phases
-Initiative / 10 (rounding down) gives number of actions per round.
+Initiative / 10 (rounding up) gives number of actions per round.
 
 Actions in the same phase are simultaneous with the lowest initiative declaring first.
 
